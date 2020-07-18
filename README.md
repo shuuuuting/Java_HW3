@@ -1,1 +1,2 @@
-# Java_HW3
+## Java_HW3
+### concept : input/get/set
